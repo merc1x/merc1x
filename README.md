@@ -1,4 +1,4 @@
-## Играйте! Весь мир театр, а люди в нем актеры.
+## Играйте! Весь мир – театр, а люди в нем актеры.
 
 <!--
 **merc1x/merc1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
